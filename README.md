@@ -1,0 +1,2 @@
+# Augmenting-and-Balancing-Binary-Search-Trees
+In this assignment you will modify the binary search tree code studied in class and lab (i.e., the source file bst. h you will find in the src directory). Your modified and improved version will: 1. Support several new features (some with runtime requirements) and 2. Enforce a balancing property ("size-balancing") which results in amortized logarithmic runtime for insertion and deletion (and all operations that take time proportional to the tree height are O(log n) in the worst case.
